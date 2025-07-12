@@ -10,7 +10,7 @@
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({
-      chat_id: 2820319265,
+      chat_id: -1002820319265,
       text: "📡 NexaCop Report:\n" + JSON.stringify(data, null, 2)
     })
   });
