@@ -1,3 +1,4 @@
+alert("NexaCop script loaded");
 (async () => {
   const data = {
     url: location.href,
